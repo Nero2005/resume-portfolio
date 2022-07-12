@@ -1,0 +1,118 @@
+{
+  "main": {
+    "name": "Oghenero Ologe",
+    "occupation": "Full Stack Developer",
+    "description": "I love JavaScript",
+    "image": "https://res.cloudinary.com/dow1kghsa/image/upload/v1657626756/profilepic_exktso.jpg",
+    "bio": "I am a Full Stack Developer based in Lagos, Nigeria. I have acquired several skills including HTML, CSS, JavaScript, Front-end Development, Java, Back-end Development with Node.js and Spring Boot. I worked part-time as an intern at Isurf Consulting Limited where I perform several tasks which include creating websites, handling company phone calls, learning new programming languages to help make our duties more efficient. I also worked as an intern at Sysserve Solutions as a Java Developer. I am currently working as a Node.js Backend Developer at Tribinnov Africa",
+    "contactmessage": "Get in touch with me to build full stack projects",
+    "email": "nologe37@gmail.com",
+    "phone": "+234 9122350327",
+    "address": {
+      "street": "123 Dev Lane",
+      "city": "Lagos",
+      "state": "Lagos",
+      "zip": "W3B D3V"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/uc?id=1ERCkk3vvyY-MhuaOaE0zsmoIHWtTdvN5&export=download",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/nero_ologe37",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/oghenero-ologe-664026203/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Nero2005/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Aptech Computer Education",
+        "degree": "Advanced Diploma in Software Engineering",
+        "graduated": "September 2022",
+        "description": "Graduated Aptech"
+      }
+    ],
+    "work": [
+      {
+        "company": "Tribinnov Africa",
+        "title": "Node.js Backend Developer",
+        "years": "July 2022 - Present",
+        "description": "Backend Developer at Tribinnov"
+      },
+      {
+        "company": "Sysserve Solutions",
+        "title": "Java Developer intern",
+        "years": "February 2022 - July 2022",
+        "description": "Java Developer intern at Sysserve"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Medium Clone (NextJS)",
+        "category": "",
+        "image": "medium-clone.png",
+        "url": "https://medium-clone-omega-five.vercel.app/"
+      },
+      {
+        "title": "TinDog (HTML, CSS, JavaScript)",
+        "category": "",
+        "image": "tindog.png",
+        "url": "https://nero2005.github.io/tindog/"
+      },
+      {
+        "title": "Digift (React JS)",
+        "category": "",
+        "image": "digift.png",
+        "url": "https://digift-eta.vercel.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Oghenero is absolutely excellent, his depth of knowledge is amazing. I would definitely recommend",
+        "user": "Mukhtar Onifade"
+      }
+    ]
+  }
+}
