@@ -2,7 +2,7 @@
 
 ![Resume and Digital Portfolio](resume-screenshot.png?raw=true "Resume and Digital Portfolio ")
 
-### <a href="">LIVE DEMO</a>
+### <a href="https://resume-portfolio-ten.vercel.app/">LIVE DEMO</a>
 
 ## Resume Starter Pack Description
 
