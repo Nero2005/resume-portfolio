@@ -101,8 +101,8 @@
       },
       {
         "title": "Reddit Clone (Next JS)",
-        "category": "RedditCloneDesktop.png",
-        "image": "",
+        "category": "",
+        "image": "reddit-clone.png",
         "url": "https://reddit-clone-two-khaki.vercel.app/"
       }
     ]
