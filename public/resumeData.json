@@ -100,10 +100,10 @@
         "url": "https://nero2005.github.io/tindog/"
       },
       {
-        "title": "Digift (React JS)",
-        "category": "",
-        "image": "digift.png",
-        "url": "https://digift-eta.vercel.app/"
+        "title": "Reddit Clone (Next JS)",
+        "category": "RedditCloneDesktop.png",
+        "image": "",
+        "url": "https://reddit-clone-two-khaki.vercel.app/"
       }
     ]
   },
